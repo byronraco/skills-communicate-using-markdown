@@ -9,3 +9,14 @@
 brew install fastapi
 brew install uvicorn
 ```
+
+### Task List
+- [X] Excercise
+- [X] Breakfast
+- [X] Work
+- [ ] Whole Foods
+- [ ] Work
+- [ ] Lunch
+- [ ] Work
+- [ ] Stretch
+- [ ] Relax
