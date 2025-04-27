@@ -5,7 +5,7 @@
 
 ### Code Snippet
 
-'''python
+''' python
 brew install fastapi
 brew install uvicorn
 '''
